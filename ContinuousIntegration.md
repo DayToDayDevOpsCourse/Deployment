@@ -31,6 +31,8 @@ The main aim of this document is to implement CI (Continuous Integration) proces
           https://github.com/CalculatorApps/CalcMultiModule.git (branch: master)
           
       Web application: https://github.com/venkatasykam/DevOpsWebApp.git (branch: web)
+      
+      Enterprise application: https://github.com/venkatasykam/DevOpsWebApp.git (branch: ear-jboss)
 
 **Step-2**: Install and Setup the repo manager too **Nexus** using the [document](https://github.com/DevOpsOnlineTraining-2021/Nexus/blob/master/1.Nexus-installation-with-docker.md)
 
